@@ -1,0 +1,3 @@
+/home/admin/ProjectVsCode/Dlang/DlangValues/cmake-build-debug/CMakeFiles/DlangValues.dir
+/home/admin/ProjectVsCode/Dlang/DlangValues/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/admin/ProjectVsCode/Dlang/DlangValues/cmake-build-debug/CMakeFiles/rebuild_cache.dir
