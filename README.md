@@ -1,3 +1,5 @@
+# GNU C Language Manual
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html><!-- This is Edition 0.0.
 
@@ -16,7 +18,6 @@ section entitled "GNU Free Documentation License."
 (a) The FSF's Back-Cover Text is: "You have the freedom to copy and
 modify this GNU manual." --><!-- Created by GNU Texinfo 6.7, http://www.gnu.org/software/texinfo/ --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>GNU C Language Manual</title>
 
 <meta name="description" content="GNU C Language Manual">
 <meta name="keywords" content="GNU C Language Manual">
@@ -27,24 +28,6 @@ modify this GNU manual." --><!-- Created by GNU Texinfo 6.7, http://www.gnu.org/
 <link href="#Symbol-Index" rel="index" title="Symbol Index">
 <link href="#SEC_Contents" rel="contents" title="Table of Contents">
 <link href="https://www.gnu.org/manual" rel="up" title="(dir)">
-<style type="text/css">
-<!--
-a.summary-letter {text-decoration: none}
-blockquote.indentedblock {margin-right: 0em}
-div.display {margin-left: 3.2em}
-div.example {margin-left: 3.2em}
-div.lisp {margin-left: 3.2em}
-kbd {font-style: oblique}
-pre.display {font-family: inherit}
-pre.format {font-family: inherit}
-pre.menu-comment {font-family: serif}
-pre.menu-preformatted {font-family: serif}
-span.nolinebreak {white-space: nowrap}
-span.roman {font-family: initial; font-weight: normal}
-span.sansserif {font-family: sans-serif; font-weight: normal}
-ul.no-bullet {list-style: none}
--->
-</style>
 
 
 </head>
